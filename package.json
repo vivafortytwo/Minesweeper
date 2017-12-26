@@ -1,0 +1,20 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "board.js",
+  "scripts": {
+    "build":"babel src -d lib",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivafortytwo/minesweeper.git"
+  },
+  "author": "Cynthia Zhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivafortytwo/minesweeper/issues"
+  },
+  "homepage": "https://github.com/vivafortytwo/minesweeper#readme"
+}
